@@ -9,4 +9,4 @@ Please see the Word Document, Human Shoulder Finite Element Model ReadMe.docx, f
 - Recommended Citation: U.S. Food and Drug Administration. (2023). Human Shoulder Finite Element Model (RST24OP04.01). https://cdrh-rst.fda.gov/human-shoulder-finite-element-model
 
 **For more information**
-Catalog of Regulatory Science Tools to Help Assess New Medical Devices: https://cdrh-rst.fda.gov/
+test
